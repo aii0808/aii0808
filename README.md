@@ -13,7 +13,7 @@ Saya adalah seorang programmer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aii0808&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Pac-Man Animation](wg.gif)
+![Pac-Man Animation](pac.gif)
 [![](https://visitcount.itsvg.in/api?id=aii0808&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
